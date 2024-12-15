@@ -1,4 +1,5 @@
 .vscode
 venv
 filestructure.txt
+.env
 

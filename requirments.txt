@@ -1,5 +1,5 @@
 langchain
-langchain_community
+langchain-community
 ipykernel
 python-dotenv
 pypdf
@@ -9,3 +9,7 @@ pymupdf
 pymongo
 motor
 langchain-text-splitters
+chromadb
+langchain-ollama
+sentence_transformers
+langchain-huggingface
