@@ -9,7 +9,7 @@ pymupdf
 pymongo
 motor
 langchain-text-splitters
-chromadb
+langchain_chroma
 langchain-ollama
 sentence_transformers
 langchain-huggingface
